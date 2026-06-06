@@ -1,0 +1,6 @@
+{
+  "name": "AI Goal Galaxy",
+  "description": "Bản đồ 3D Galaxy hiển thị mục tiêu của học viên khóa học AI Builder.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

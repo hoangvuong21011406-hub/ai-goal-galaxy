@@ -1,0 +1,55 @@
+{
+  "courseName": "AI Builder Course",
+  "items": [],
+  "clusters": [
+    {
+      "id": "chatbot",
+      "name": "AI Chatbot",
+      "description": "Các chatbot tự động, trợ lý ảo thông minh, hệ thống tương tác khách hàng và hỏi đáp Q&A.",
+      "keywords": ["chatbot", "bot", "assistant", "trợ lý", "tro ly", "hỏi đáp", "hoi dap", "tư vấn", "tu van", "customer", "support", "zalo", "messenger"],
+      "position": [-16.5, 1.0, 1.5]
+    },
+    {
+      "id": "automation",
+      "name": "Automation Agent",
+      "description": "Hệ thống tự động hóa văn phòng, tự động hóa quy trình làm việc và các tác nhân AI (AI Agents).",
+      "keywords": ["automation", "tự động", "tu dong", "agent", "workflow", "excel", "báo cáo", "bao cao", "email", "office", "văn phòng", "van phong"],
+      "position": [16.5, 1.0, -1.5]
+    },
+    {
+      "id": "content",
+      "name": "Content AI",
+      "description": "Ứng dụng sáng tạo nội dung đa phương tiện: viết bài, tạo hình ảnh, video (TikTok, YouTube Shorts, Reels).",
+      "keywords": ["content", "video", "ảnh", "anh", "image", "tiktok", "youtube", "short", "reels", "viết bài", "viet bai", "caption", "thumbnail", "tts", "voice"],
+      "position": [-4.0, 2.0, -12.5]
+    },
+    {
+      "id": "data",
+      "name": "Data Analysis",
+      "description": "Phân tích số liệu, tổng hợp báo cáo chi tiết, trực quan hóa biểu đồ và xây dựng dashboard thông tin.",
+      "keywords": ["data", "dashboard", "phân tích", "phan tich", "analytics", "chart", "biểu đồ", "bieu do", "report", "báo cáo", "bao cao", "excel"],
+      "position": [4.0, -2.0, 12.5]
+    },
+    {
+      "id": "business",
+      "name": "Business AI Tool",
+      "description": "Nhóm công cụ phát triển doanh nghiệp, tối ưu hóa bán hàng, marketing, thương mại điện tử, CRM.",
+      "keywords": ["business", "bán hàng", "ban hang", "marketing", "sales", "crm", "khách hàng", "khach hang", "shop", "ecommerce", "thương mại", "thuong mai", "sản phẩm", "san pham"],
+      "position": [-11.0, -1.0, 8.0]
+    },
+    {
+      "id": "education",
+      "name": "Education AI",
+      "description": "Mô hình dạy học thông minh, hỗ trợ giảng bài, trắc nghiệm nhanh, quiz và gia sư AI cá nhân hóa.",
+      "keywords": ["học", "hoc", "giáo dục", "giao duc", "education", "learning", "quiz", "test", "bài tập", "bai tap", "tutor", "teacher"],
+      "position": [11.0, -1.0, -8.0]
+    },
+    {
+      "id": "other",
+      "name": "Other Ideas",
+      "description": "Các ý tưởng sáng tạo đột phá chưa thuộc nhóm chòm sao định hình nào.",
+      "keywords": [],
+      "position": [0, 0, 0]
+    }
+  ]
+}
